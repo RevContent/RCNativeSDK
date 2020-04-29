@@ -1,6 +1,6 @@
-# Introdction:
+# Introduction:
 A CocoaPods library written in Swift for the Revcontent to enables you to receive the same ad fill you would see in our traditional ad placements in a more flexible format.
-# Prerequesties
+# Prerequisites
 - XCode Version >= 10.x
 - iOS Version >=10.0
 # Features
