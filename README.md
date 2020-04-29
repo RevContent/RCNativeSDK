@@ -17,7 +17,7 @@ A CocoaPods library written in Swift for the Revcontent to enables you to receiv
 ```
 platform :ios, '10.0'
 target 'MyApp' do
-  pod 'RCNativeSDK', '~> 0.0.2'
+  pod 'RCNativeSDK', '~> 0.0.3'
 end
 ```
 - Save your Podfile.

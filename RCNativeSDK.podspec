@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "RCNativeSDK"
-  spec.version      = "0.0.2"
+  spec.version      = "0.0.3"
   spec.summary      = "A CocoaPods library written in Swift for Revcontent."
 
   spec.description  = <<-DESC
