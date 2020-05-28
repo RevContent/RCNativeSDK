@@ -5,7 +5,6 @@ A native library for iOS & Android for the Revcontent to enables you to receive 
 - Load widget by WidgetId
 - Load widget by SubId (Optional)
 - Flexible widget size
-- Add widget programmatically or by creating IBOutlets from Storyboard/Xibs.
 
 # iOS Library
 
