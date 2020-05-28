@@ -8,13 +8,13 @@ A native library for iOS & Android for the Revcontent to enables you to receive 
 
 # iOS Library
 
-A CocoaPods library written in Swift for the Revcontent to enables you to receive the same ad fill you would see in our traditional ad placements in a more flexible format. You can find more details from here:
+Revcontent's iOS library written in Swift, enables you quickly and reliably include our JS widgets into your application. You can find more details from here:
 
 https://github.com/RevContent/RCNativeiOSSDK
 
 # Android Library
 
-A CocoaPods library written in Swift for the Revcontent to enables you to receive the same ad fill you would see in our traditional ad placements in a more flexible format. You can find more details from here:
+Revcontent's Android library written in Java, enables you quickly and reliably include our JS widgets into your application. You can find more details from here:
 
 https://github.com/RevContent/RCNativeAndroidSDK
 
