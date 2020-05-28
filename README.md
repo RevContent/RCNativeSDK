@@ -17,7 +17,7 @@ A CocoaPods library written in Swift for the Revcontent to enables you to receiv
 ```
 platform :ios, '10.0'
 target 'MyApp' do
-  pod 'RCNativeSDK', '~> 0.0.2'
+  pod 'RCNativeiOSSDK'
 end
 ```
 - Save your Podfile.
@@ -25,10 +25,10 @@ end
 - Open the `MyApp.xcworkspace` that was created. This should be the file you use everyday to create your app.
 # Usage
 ```
-import RCNativeSDK
+import RCNativeiOSSDK
 class ViewController: UIViewController {
     override func viewDidLoad() {
-        RCNativeSDK.setup()
+        RCNativeiOSSDK.setup()
         let widget = RCNactiveJSWidgetView.init(frame: self.view.frame)
         widget.setWidgetId(widgetId: "66620")
         widget.setWidgetSubId(widgetSubId:["category":"entertainment", "utm_code":"123456"]);  // It is Optional
