@@ -23,7 +23,7 @@ https://github.com/RevContent/RCNativeAndroidSDK
 # No Library
 
 If you choose to implement in a webview there are some notes for this:
-- A base URL must be defined
+- A base URL must be defined ([loadDataWithBaseURL Android Documentation](https://developer.android.com/reference/android/webkit/WebView#loadDataWithBaseURL(java.lang.String,%20java.lang.String,%20java.lang.String,%20java.lang.String,%20java.lang.String)))
 - Add the following to your WKWebview HTML for full width:
 ```
   <meta name="viewport" content="width=device-width,initial-scale=1">
